@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "konane-cheat"
+name = "konane-engine"
 version = "0.1.0"
